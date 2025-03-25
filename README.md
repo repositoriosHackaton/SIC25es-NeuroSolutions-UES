@@ -4,7 +4,11 @@
 
 ## Descripción
 Este proyecto tiene como objetivo desarrollar una aplicación de inteligencia artificial capaz de analizar imágenes oculares para detectar diversas enfermedades. Utiliza una red neuronal convolucional (CNN) entrenada en un dataset especializado de Kaggle para clasificar imágenes en diferentes categorías de enfermedades oculares.
-![Diseño sin título](https://github.com/user-attachments/assets/8eba5d88-53ff-4f00-852c-76fac440a580)
+
+
+
+![Diseño sin título (1)](https://github.com/user-attachments/assets/aa9e685b-c199-482c-9e84-001dcefd597c)
+
 
 ## Características principales
 - **Interfaz de usuario**
