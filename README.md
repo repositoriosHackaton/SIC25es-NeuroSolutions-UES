@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación de inteligencia ar
 
 
 
-![Diseño sin título (1)](https://github.com/user-attachments/assets/aa9e685b-c199-482c-9e84-001dcefd597c)
+![Diseño sin título (1)](https://github.com/user-attachments/assets/aa9e685b-c199-482c-9e84-001dcefd597c) width="500" height="300"
 
 
 ## Características principales
