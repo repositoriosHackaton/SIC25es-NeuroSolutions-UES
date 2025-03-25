@@ -1,13 +1,10 @@
 # SIC25es-NeuroSolutions-UES
 
-# Proyecto de Detección de Enfermedades Oculares con IA
+# OpticVision AI -  Detección de Enfermedades Oculares con IA
 
 ## Descripción
 Este proyecto tiene como objetivo desarrollar una aplicación de inteligencia artificial capaz de analizar imágenes oculares para detectar diversas enfermedades. Utiliza una red neuronal convolucional (CNN) entrenada en un dataset especializado de Kaggle para clasificar imágenes en diferentes categorías de enfermedades oculares.
 
-
-
-![Diseño sin título (1)](https://github.com/user-attachments/assets/aa9e685b-c199-482c-9e84-001dcefd597c) width="200" height="100"
 
 
 ## Características principales
