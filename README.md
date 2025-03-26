@@ -60,4 +60,8 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
   - Jupyter Notebook (desarrollo y pruebas)
   - GitHub (gestión del código)
   - kaggle (preprocesamiento de la data)
+  - Visual Studio Code
+ 
+      ## Designed By:
+ ![Diseño sin título](https://github.com/user-attachments/assets/e0c8c5d3-bbca-47c4-996b-bfcaebdcec62)
 
