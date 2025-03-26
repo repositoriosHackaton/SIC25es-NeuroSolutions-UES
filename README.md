@@ -9,8 +9,9 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
 
   ## Nombre
    - Optic Vision AI
-  Descripcion
-   - Aplicacion basada en AI para la diagnosticacion de emfermedades oculares
+ 
+  *Descripcion*
+   - Aplicacion basada en AI para la diagnosticacion de enfermedades oculares
      
   ## Diseño 
   - Red Neuronal Convolucional(CNN): El nucleo de Optic Vision AI se basa en arquitectura de redes neuronales como herramienta 
@@ -18,7 +19,6 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
     
     ![image](https://github.com/user-attachments/assets/a520aeea-c7ca-48a7-854e-c3fa263ba367)
 
-   
 
 
   ## Caracteristicas principales
