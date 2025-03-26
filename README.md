@@ -50,7 +50,8 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
   
   ## Tecnologías utilizadas
   
- -  **Lenguaje de programación**: Python
+ -  **Lenguaje de programación**:
+   -  Python
 
   
  - **Frameworks y bibliotecas**:
