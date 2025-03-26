@@ -33,7 +33,9 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
   - mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
   - Opcion de descarga del diaggnostico en formaato PDF.
-    
+    #PDF
+[diagnostico.pdf](https://github.com/user-attachments/files/19459072/diagnostico.pdf)
+
   ## Fuente de la DATA
   Kaggle
   ![image](https://github.com/user-attachments/assets/beeca137-c5bd-4b4c-8a61-e0708738f48d)
