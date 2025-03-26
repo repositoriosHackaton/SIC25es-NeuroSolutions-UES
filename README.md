@@ -53,11 +53,11 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
  -  **Lenguaje de programación**: Python
 
   
- - *Frameworks y bibliotecas**:
-  - TensorFlow / Keras (entrenamiento del modelo de IA)
-  - OpenCV (procesamiento de imágenes)
-  - Flask / Streamlit (interfaz de usuario)
-  - PyPDF2 (generación de informes en PDF)
+ - **Frameworks y bibliotecas**:
+    - TensorFlow / Keras (entrenamiento del modelo de IA)
+    - OpenCV (procesamiento de imágenes)
+    - Flask / Streamlit (interfaz de usuario)
+    - PyPDF2 (generación de informes en PDF)
 
     
 - **Entorno de desarrollo**:
