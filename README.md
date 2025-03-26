@@ -18,7 +18,10 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
     
     ![image](https://github.com/user-attachments/assets/a520aeea-c7ca-48a7-854e-c3fa263ba367)
 
-  - 
+   
+
+
+  ## Caracteristicas principales
   - Deteccion de seis emfermedades
   - mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
