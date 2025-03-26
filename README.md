@@ -36,7 +36,8 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
     
   ## Fuente de la DATA
   Kaggle
-  ![image](https://github.com/user-attachments/assets/404cdcd6-7185-45ae-b724-80e5cd9c8666)
+  ![image](https://github.com/user-attachments/assets/beeca137-c5bd-4b4c-8a61-e0708738f48d)
+
   
   ¡¡Cabe recalcar que la data fue sometido a un extenso preprocesamiento para adecuarlo al entrenamiento!!
   (el enlace a la data se encuentra en el repositorio)
