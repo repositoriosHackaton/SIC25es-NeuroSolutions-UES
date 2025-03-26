@@ -3,18 +3,16 @@ SIC25es-NeuroSolutions-UES
 #  Detección de Enfermedades Oculares con IA
 
 # Descripción
-Mas que un proyecto universitario somos una solucion innovadora, integral, accecible para todas las personas y comprometida de revolucionar la salud visual en el pais y construir un futuro global donde el acceso a la atencion medica especializada no sea un beneficio solo de pocos si no un derecho al alcance incluso de las comunidades mas vulnerables 
-
+Más que un proyecto universitario, somos una solución innovadora, integral, accesible para todas las personas y comprometida con revolucionar la salud visual en el país, y construir un futuro global donde el acceso a la atención médica especializada no sea un beneficio solo para pocos, sino un derecho al alcance incluso de las comunidades más vulnerables.
 
 
   ## Nombre
    - Optic Vision AI
   Descripcion
-   - Aplicacion basada en AI para la diagnosticacion de emfermedades oculares
+   - Aplicación basada en IA para el diagnóstico de enfermedades oculares.
      
   ## Diseño 
-  - Red Neuronal Convolucional(CNN): El nucleo de Optic Vision AI se basa en arquitectura de redes neuronales como herramienta 
-    principal en la clasificacion y deteccion de las enfermedades
+  - Red Neuronal Convolucional (CNN): El núcleo de Optic Vision AI se basa en una arquitectura de redes neuronales como herramienta principal en la clasificación y detección de enfermedades.
     
     ![image](https://github.com/user-attachments/assets/a520aeea-c7ca-48a7-854e-c3fa263ba367)
 
@@ -28,32 +26,31 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
 
    
 
-  - Interfaz amigable con los usuarios
-  - Deteccion de seis emfermedades
-  - mas de 50 diagnosticos diferentes
-  - Resultados preliminares en tiempo real.
-  - Opcion de descarga del diaggnostico en formaato PDF.
-    
+  - Interfaz amigable para los usuarios.  
+  - Detección de seis enfermedades.  
+  - Más de 50 diagnósticos diferentes.  
+  - Resultados preliminares en tiempo real.  
+  - Opción de descarga del diagnóstico en formato PDF.  
+
   ## Fuente de la DATA
   Kaggle
   ![image](https://github.com/user-attachments/assets/beeca137-c5bd-4b4c-8a61-e0708738f48d)
 
   
-  ¡¡Cabe recalcar que la data fue sometido a un extenso preprocesamiento para adecuarlo al entrenamiento!!
-  (el enlace a la data se encuentra en el repositorio)
-
+  ¡¡Cabe recalcar que la data fue sometida a un extenso preprocesamiento para adecuarla al entrenamiento!!
+(El enlace a la data se encuentra en el repositorio).
   
   
   ## Tecnologías utilizadas
-  **Lenguaje de programación**: Python
-  **Frameworks y bibliotecas**:
-  - TensorFlow / Keras (entrenamiento del modelo de IA)
-  - OpenCV (procesamiento de imágenes)
-  - Flask / Streamlit (interfaz de usuario)
-  - PyPDF2 (generación de informes en PDF)
-- **Entorno de desarrollo**:
-  - Google Colab (entrenamiento del modelo)
-  - Jupyter Notebook (desarrollo y pruebas)
-  - GitHub (gestión del código)
-  - kaggle (preprocesamiento de la data)
+**Lenguaje de programación:** Python  
+**Frameworks y bibliotecas:**  
+- TensorFlow / Keras (entrenamiento del modelo de IA)  
+- OpenCV (procesamiento de imágenes)  
+- Flask / Streamlit (interfaz de usuario)  
+- PyPDF2 (generación de informes en PDF)  
 
+**Entorno de desarrollo:**  
+- Google Colab (entrenamiento del modelo)  
+- Jupyter Notebook (desarrollo y pruebas)  
+- GitHub (gestión del código)  
+- Kaggle (preprocesamiento de la data)  
