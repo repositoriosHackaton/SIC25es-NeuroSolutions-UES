@@ -1,28 +1,19 @@
 # SIC25es-NeuroSolutions-UES
 
-# OpticVision AI -  Detección de Enfermedades Oculares con IA
+#  Detección de Enfermedades Oculares con IA
 
 ## Descripción
-Este proyecto tiene como objetivo desarrollar una aplicación de inteligencia artificial capaz de analizar imágenes oculares para detectar diversas enfermedades. Utiliza una red neuronal convolucional (CNN) entrenada en un dataset especializado de Kaggle para clasificar imágenes en diferentes categorías de enfermedades oculares.
-
+Mas que un proyecto universitario somos una solucion innovadora, integral, accecible para todas las personas y comprometida de revolucionar la salud visual en el pais y construir un futuro global donde el acceso a la atencion medica especializada no sea un beneficio solo de pocos si no un derecho al alcance incluso de las comunidades mas vulnerables 
 
 
 ## Características principales
 - **Interfaz de usuario**
   - Pantalla de carga.
-  - Formulario de registro (nombre, edad, historial médico).
-  - Interfaz principal con opciones de escaneo, historial y chatbot.
+  - Interfaz principal con opciones de escaneo y
 - **Escaneo con IA**
   - Análisis de imágenes del ojo con un modelo de CNN.
-  - Clasificación en seis enfermedades oculares, otras patologías o estado sano.
+  - Clasificación de seis emfermedades pero con mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
-- **Historial de escaneos**
-  - Registro de análisis previos.
-  - Seguimiento de cambios en las imágenes.
-  - Exportación de informes en PDF.
-- **Chatbot de recomendaciones**
-  - Información sobre enfermedades oculares.
-  - Consejos de prevención y salud visual.
 
 ## Tecnologías utilizadas
 - **Lenguaje de programación**: Python
