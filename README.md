@@ -1,4 +1,4 @@
-# SIC25es-NeuroSolutions-UES
+![image](https://github.com/user-attachments/assets/a0458c3d-1c34-4090-8318-ba42be6e506e)# SIC25es-NeuroSolutions-UES
 
 #  Detección de Enfermedades Oculares con IA
 
@@ -6,8 +6,12 @@
 Mas que un proyecto universitario somos una solucion innovadora, integral, accecible para todas las personas y comprometida de revolucionar la salud visual en el pais y construir un futuro global donde el acceso a la atencion medica especializada no sea un beneficio solo de pocos si no un derecho al alcance incluso de las comunidades mas vulnerables 
 
 
-## Características principales
-- **Interfaz de usuario**
+
+## Nombre
+  - Optic Vision AI
+## Descripcion
+  - Aplicacion basada en AI para la diagnosticacion de emfermedades oculares
+## Arquitectura
   - Pantalla de carga.
   - Interfaz principal con opciones de escaneo y
 - **Escaneo con IA**
