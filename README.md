@@ -7,21 +7,30 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
 
 
 
-  Nombre
+  ## Nombre
    - Optic Vision AI
   Descripcion
    - Aplicacion basada en AI para la diagnosticacion de emfermedades oculares
-  Diseño de la APP
-  - Interfaz principal con opciones de escaneo y
-- **Escaneo con IA**
-  - Análisis de imágenes del ojo con un modelo de CNN.
+     
+  ## Diseño 
+  - Red Neuronal Convolucional(CNN): El nucleo de Optic Vision AI se basa en arquitectura de redes neuronales como herramienta 
+    principal en la clasificacion y deteccion de las enfermedades
+    
+    ![image](https://github.com/user-attachments/assets/a520aeea-c7ca-48a7-854e-c3fa263ba367)
+
+  - 
   - Deteccion de seis emfermedades
   - mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
 
-# Tecnologías utilizadas
-- **Lenguaje de programación**: Python
-- **Frameworks y bibliotecas**:
+    
+  - Deteccion de seis emfermedades
+  - mas de 50 diagnosticos diferentes
+  - Resultados preliminares en tiempo real.
+
+  ## Tecnologías utilizadas
+  **Lenguaje de programación**: Python
+  **Frameworks y bibliotecas**:
   - TensorFlow / Keras (entrenamiento del modelo de IA)
   - OpenCV (procesamiento de imágenes)
   - Flask / Streamlit (interfaz de usuario)
