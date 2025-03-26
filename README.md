@@ -22,9 +22,7 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
 
 
   ## Caracteristicas principales
-   ![image](https://github.com/user-attachments/assets/16be5c08-13dd-464e-87cb-4dfd67e2c5df)
-
-   ![image](https://github.com/user-attachments/assets/6a7ae2a6-912b-48f9-8289-11459d42ef02)
+   ![image](https://github.com/user-attachments/assets/16be5c08-13dd-464e-87cb-4dfd67e2c5df) ![image](https://github.com/user-attachments/assets/6a7ae2a6-912b-48f9-8289-11459d42ef02)
 
    
 
