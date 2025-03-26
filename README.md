@@ -27,10 +27,10 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
    
 
   - Interfaz amigable con los usuarios
-  - Deteccion de seis emfermedades
-  - mas de 50 diagnosticos diferentes
+  - Deteccion de seis enfermedades
+  - Más de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
-  - Opcion de descarga del diaggnostico en formaato PDF.
+  - Opcion de descarga del diagnostico en formato PDF.
     
 **EJEMPLO PDF**
 [diagnostico_20250325_181722.pdf](https://github.com/user-attachments/files/19459076/diagnostico_20250325_181722.pdf)
