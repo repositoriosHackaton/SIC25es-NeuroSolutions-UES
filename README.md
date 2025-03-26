@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0458c3d-1c34-4090-8318-ba42be6e506e)# SIC25es-NeuroSolutions-UES
+SIC25es-NeuroSolutions-UES
 
 #  Detección de Enfermedades Oculares con IA
 
