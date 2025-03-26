@@ -7,16 +7,16 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
 
 
 
-# Nombre
-  - Optic Vision AI
-# Descripcion
-  - Aplicacion basada en AI para la diagnosticacion de emfermedades oculares
-# Arquitectura
-  - Pantalla de carga.
+  Nombre
+   - Optic Vision AI
+  Descripcion
+   - Aplicacion basada en AI para la diagnosticacion de emfermedades oculares
+  Diseño de la APP
   - Interfaz principal con opciones de escaneo y
 - **Escaneo con IA**
   - Análisis de imágenes del ojo con un modelo de CNN.
-  - Clasificación de seis emfermedades pero con mas de 50 diagnosticos diferentes
+  - Deteccion de seis emfermedades
+  - mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
 
 # Tecnologías utilizadas
@@ -30,4 +30,5 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
   - Google Colab (entrenamiento del modelo)
   - Jupyter Notebook (desarrollo y pruebas)
   - GitHub (gestión del código)
+  - kaggle (preprocesamiento de la data)
 
