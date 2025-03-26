@@ -32,9 +32,17 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
   - Deteccion de seis emfermedades
   - mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
-  - Opcion de descarga del diaggnostico en formaato json.
+  - Opcion de descarga del diaggnostico en formaato PDF.
     
+  ## Fuente de la DATA
+  Kaggle
+  ![image](https://github.com/user-attachments/assets/404cdcd6-7185-45ae-b724-80e5cd9c8666)
+  
+  ¡¡Cabe recalcar que la data fue sometido a un extenso preprocesamiento para adecuarlo al entrenamiento!!
+  (el enlace a la data se encuentra en el repositorio)
 
+  
+  
   ## Tecnologías utilizadas
   **Lenguaje de programación**: Python
   **Frameworks y bibliotecas**:
