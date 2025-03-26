@@ -1,6 +1,6 @@
 SIC25es-NeuroSolutions-UES
 
-#  Detección de Enfermedades Oculares con IA
+## Detección de Enfermedades Oculares con IA
 
 # Descripción
 Mas que un proyecto universitario somos una solucion innovadora, integral, accecible para todas las personas y comprometida de revolucionar la salud visual en el pais y construir un futuro global donde el acceso a la atencion medica especializada no sea un beneficio solo de pocos si no un derecho al alcance incluso de las comunidades mas vulnerables 
@@ -11,7 +11,7 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
    - Optic Vision AI
  
   *Descripcion*
-   - Aplicacion basada en AI para la diagnosticacion de enfermedades oculares
+   - Aplicacion basada en AI para la diagnosticacion de enfermedades oculares.
      
   ## Diseño 
   - Red Neuronal Convolucional(CNN): El nucleo de Optic Vision AI se basa en arquitectura de redes neuronales como herramienta 
