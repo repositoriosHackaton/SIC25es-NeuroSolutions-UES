@@ -22,14 +22,18 @@ Mas que un proyecto universitario somos una solucion innovadora, integral, accec
 
 
   ## Caracteristicas principales
-  - Deteccion de seis emfermedades
-  - mas de 50 diagnosticos diferentes
-  - Resultados preliminares en tiempo real.
+   ![image](https://github.com/user-attachments/assets/16be5c08-13dd-464e-87cb-4dfd67e2c5df)
 
-    
+   ![image](https://github.com/user-attachments/assets/6a7ae2a6-912b-48f9-8289-11459d42ef02)
+
+   
+
+  - Interfaz amigable con los usuarios
   - Deteccion de seis emfermedades
   - mas de 50 diagnosticos diferentes
   - Resultados preliminares en tiempo real.
+  - Opcion de descarga del diaggnostico en formaato json.
+    
 
   ## Tecnologías utilizadas
   **Lenguaje de programación**: Python
