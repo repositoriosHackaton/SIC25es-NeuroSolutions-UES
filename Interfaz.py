@@ -30,7 +30,7 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 TARGET_SIZE = (160, 160)
 
 try:
-    model = tf.keras.models.load_model("Modelo.h5")
+    model = tf.keras.models.load_model("optimized_model.h5")
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
     MODEL_LOADED = True
 except Exception as e:
